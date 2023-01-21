@@ -3,6 +3,6 @@ Is climate change real? The world stands divided on this topic, primarily into t
 
 Project Idea: Download the sample dataset ‘fuelconsumption.csv’ and store it into a Pandas dataframe. Analyze the dataset using various functions for a dataframe object like df.head(), df.summary(), etc. Analyze the data using a logistic regression model and plot various graphs using the matplotlib library to draw various conclusions. As a challenge, try to estimate future values by splitting the dataset into test and training subsets.
 
-Global CO2 emissions rebound by nearly 5% in 2021, approaching the 2018-2019 peak
-Despite global economic activity rising above 2019 levels in 2021 and global energy demand rebounding above 2019 levels, we do not anticipate a full return of CO2 emissions to pre-crisis levels.
+Global CO2 emissions rebound by nearly 5% in 2021, approaching the 2018-2019 peak. 
+Despite global economic activity rising above 2019 levels in 2021 and global energy demand rebounding above 2019 levels, we do not anticipate a full return of CO2 emissions to pre-crisis levels. 
 Emerging markets and developing economies accounts for more than two-thirds of global CO2 emissions, while emissions in advanced economies are in a structural decline.
